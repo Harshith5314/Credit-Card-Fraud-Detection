@@ -26,7 +26,7 @@ The goal of this project is to accurately identify fraudulent credit card transa
 To get started with the project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/credit-card-fraud-detection.git
+git clone https://github.com/Harshith5314/Credit-Card-Fraud-Detection.git
 cd credit-card-fraud-detection
 pip install -r requirements.txt
 ```
